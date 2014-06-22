@@ -1,3 +1,3 @@
 # Simple grid
 
-A simple css grid.
+A simple CSS grid.
