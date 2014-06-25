@@ -2,9 +2,7 @@
 
 A simple CSS grid.
 
+Some References:
 
-Some References
-
-http://www.adamkaplan.me/grid/
-
-http://css-tricks.com/dont-overthink-it-grids/
+- http://www.adamkaplan.me/grid/
+- http://css-tricks.com/dont-overthink-it-grids/
