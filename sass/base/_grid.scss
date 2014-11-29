@@ -15,13 +15,15 @@
     padding-left: $column-padding;
     padding-right: $column-padding;
   }
-  
+   
   .column.full { width: 100%; }
   .column.two-thirds { width: 66.7%; }
   .column.half { width: 50%; }
   .column.third { width: 33.3%; }
   .column.fourth { width: 25%; }
-  .column.flow-opposite { float: right; }  
+  .column.one-eighth { width: 12.5%; }
+  .column.flow-opposite { float: right; } 
+  
 
   .row {
     @include clearFix();
